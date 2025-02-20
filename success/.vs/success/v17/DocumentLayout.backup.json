@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kdkal\\Desktop\\Homework\\webapp\\success\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACC9809-6C9D-4BB7-9C4A-5FADA32B1932}|success\\success.csproj|c:\\users\\kdkal\\desktop\\homework\\webapp\\success\\success\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ACC9809-6C9D-4BB7-9C4A-5FADA32B1932}|success\\success.csproj|solutionrelative:success\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kdkal\\Desktop\\Homework\\webapp\\success\\success\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "success\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kdkal\\Desktop\\Homework\\webapp\\success\\success\\Pages\\Index.cshtml",
+              "RelativeToolTip": "success\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-10T06:43:47.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
